@@ -4,7 +4,7 @@ My DApp has the functionality of writing/ reading a name to/ from the blockchain
 
 # How to use
 
-Clone the repo and swith into client folder by typing ccd client
+Clone the repo and swith into client folder by typing cd client
 
 Open the index.html file in the browser or run with live server.
  Now you can interact with my DApp!
